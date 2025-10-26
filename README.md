@@ -1,1 +1,1 @@
-# Ema-s-Supercomputer-algo
+# Ema-s-Supercomputer-algo The function finds all possible plus shapes made of 'G' cells, each defined by a center and arm length. It then compares every pair of non-overlapping pluses to find the maximum product of their areas.
